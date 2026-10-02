@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+scikit-learn
+# Recommended for multilingual semantic clustering (German/Russian/French/English):
+sentence-transformers
